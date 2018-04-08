@@ -1,0 +1,13 @@
+"UnlitGeneric"
+{
+	"$translucent" 1
+	
+	"$basetexture" "vgui/crosshairs/icehair.vtf"
+	
+	"$vertexcolor" 1
+	
+	"$no_fullbright" 1
+	
+	"$ignorez" 1
+}
+}
